@@ -1,4 +1,4 @@
-# PayPal Payment Integration Service
+# PayPal Payment Integration System
 A production-ready microservices-based payment integration system built with Java Spring Boot, enabling seamless PayPal Standard Checkout functionality with robust security, fault tolerance, and performance optimization.
 Overview
 This project implements a comprehensive REST API integration with PayPal's payment platform, featuring end-to-end order management, real-time payment tracking, and enterprise-grade security. The system is architected using microservices patterns and deployed on AWS cloud infrastructure, ensuring scalability, reliability, and maintainability.
